@@ -37,12 +37,10 @@
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  <h2 align="center"> And more... <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;</h2>
 
-<br><h2 align="center">Stats:</h2><br>
-
 <div align="center">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slvkelevra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Slvkelevra's Github Stats">
-
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
 </div><br>
