@@ -26,6 +26,7 @@
 </div>
 
 <p align="center">
+  
   <img src="https://user-images.githubusercontent.com/16016494/154133934-40314599-7bd4-457e-9fb6-9799db5c7963.gif" alt="animated" />
   
 </p>
@@ -33,7 +34,9 @@
 
 
 <p align="center>
+          
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...*** 
+                                                                                    
 </p>
 <p align="center">
 
