@@ -1,6 +1,9 @@
 <h1 align="center">Hi! I'm Slvkelevra 🙂</h1>
 <h4 align="center">I'm a 28 years old based in Spain. <br> I like to explore new technologies and develop software solutions and quick hacks.</h4>
 
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ---
 
 ### Spotify Playing 🎧
@@ -8,6 +11,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/slvkelevra)
 
 ---
+
 
 <h2 align="center">Contact:</h2><br>
 
