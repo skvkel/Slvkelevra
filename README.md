@@ -26,9 +26,7 @@
 </div>
 
 <p align="center">
-  
   <img src="https://user-images.githubusercontent.com/16016494/154133934-40314599-7bd4-457e-9fb6-9799db5c7963.gif" alt="animated" />
-  
 </p>
 
 
