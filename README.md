@@ -43,8 +43,6 @@
  <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
  </p>
- <br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
 </div><br>
 
