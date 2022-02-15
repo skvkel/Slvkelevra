@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=jrmydix&label=Profile+visitors:)
+![Views](https://komarev.com/ghpvc/?username=Slvkelevra&label=Profile+visitors:)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmydix&layout=compact&theme=dark)](https://github.com/jrmydix)
 
