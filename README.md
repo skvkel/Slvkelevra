@@ -15,6 +15,19 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
  </p>
+ 
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="center">
+  
+
+[![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Jupyter Badge](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+
 
 <br><h2 align="center">Stats:</h2><br>
 
