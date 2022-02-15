@@ -41,6 +41,14 @@
 
 <div align="center">
   
+  
+  ### Here's my github README stats:
+
+![Slvkelevra GitHub stats](https://github-readme-stats.vercel.app/api?username=Slvkelevra&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slvkelevra&theme=radical)](https://git.io/streak-stats) 
+
+  
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slvkelevra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Slvkelevra's Github Stats">
 <br>
  <br>
