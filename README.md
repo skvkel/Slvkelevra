@@ -12,7 +12,9 @@
 🔗 Personnal website : Under development
 
 </div>
-![Views](https://komarev.com/ghpvc/?username=Slvkelevra&label=Profile+visitors:)
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
+ </p>
 
 <br><h2 align="center">Stats:</h2><br>
 
