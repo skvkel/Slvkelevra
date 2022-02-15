@@ -12,7 +12,7 @@
 </div>
 
 
-<h2 align="center">Contact:</h2><br>
+<h2 align="center">Contact me:</h2><br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/%C3%A1lvaro-mar%C3%ADn-p%C3%A9rez-7b39101a7"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
