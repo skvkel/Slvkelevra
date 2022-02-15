@@ -14,10 +14,17 @@
 
 </div><br>
 
-<hr>
-![Views](https://komarev.com/ghpvc/?username=Slvkelevrax&label=Profile+visitors:)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
-![Slvkelevra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slvkelevra&count_private=true&show_icons=true&theme=dark&hide=issues)
-</p><br>
+
+<br><h2 align="center">Stats:</h2><br>
+
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=jrmydix&label=Profile+visitors:)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmydix&layout=compact&theme=dark)](https://github.com/jrmydix)
+
+![Jérémy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrmydix&count_private=true&show_icons=true&theme=dark&hide=issues)
+
+</div><br>
 
 <hr>
