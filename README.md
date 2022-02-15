@@ -88,6 +88,8 @@
       alt="Bitbucket"/>
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"
       alt="Shell script"/>
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
+      alt="JSON"/>
   
   
   
