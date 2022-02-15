@@ -24,9 +24,6 @@
 ![Views](https://komarev.com/ghpvc/?username=Slvkelevra&label=Profile+visitors:)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
-
-![Slvkelevra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slvkelevra&count_private=true&show_icons=true&theme=dark&hide=issues)
-
 </div><br>
 
 <hr>
