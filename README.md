@@ -69,8 +69,7 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
-       alt="Mysql>
-
+       alt="Mysql/>
   </p>
   
 <h3 align="center">Others</h3>
