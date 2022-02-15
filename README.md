@@ -12,7 +12,7 @@
 🔗 Personnal website : Under development
 
 </div>
-<p align="left"> 
+<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
  </p>
 
