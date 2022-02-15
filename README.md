@@ -16,9 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
  </p>
  
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="center">
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+ 
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
