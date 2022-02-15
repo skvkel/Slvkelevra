@@ -31,6 +31,21 @@
 
 
  <h3 align="center">Languages</h3>
+ 
+ <p align="center">
+    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"
+      alt="Python"/> 
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518"
+      alt="Java"/> 
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC"
+      alt="C"/> 
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"
+      alt="C++"/> 
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"
+      alt="HTML5"/> 
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"
+      alt="CSS"/> 
+</p>
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
