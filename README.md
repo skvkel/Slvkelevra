@@ -11,7 +11,7 @@
 
 🔗 Personnal website : Under development
 
-</div><br>
+</div>
 
 <br><h2 align="center">Stats:</h2><br>
 
