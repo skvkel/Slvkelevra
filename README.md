@@ -68,6 +68,8 @@
       alt="sqlite"/> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+       alt="Mysql>
 
   </p>
   
@@ -77,6 +79,20 @@
       alt="Git"/> 
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"
       alt="Github"/>
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white"
+      alt="Linux"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"
+      alt="Android"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"
+      alt="Telegram"/>
+    <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket"
+      alt="Bitbucket"/>
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"
+      alt="Shell script"/>
+  
+  
+  
+
   </p>
   <h2 align="center"> And more... <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;</h2>
 
