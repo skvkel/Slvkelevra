@@ -10,7 +10,6 @@
   [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/slvkelevra)
   
 </div>
----
 
 
 <h2 align="center">Contact:</h2><br>
