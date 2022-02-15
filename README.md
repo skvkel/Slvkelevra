@@ -49,9 +49,9 @@
 <p align="center">
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"
       alt="Bootstrap"/> 
-  <img src="(https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"
       alt="Django"/> 
-  <img src="(https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"
+  <img src=(https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"
       alt="Flask"/> 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
