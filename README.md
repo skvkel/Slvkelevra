@@ -103,7 +103,7 @@
   ### Here's my github README stats:
 
 ![Slvkelevra GitHub stats](https://github-readme-stats.vercel.app/api?username=Slvkelevra&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slvkelevra&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slvkelevra&theme=radical)]
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
 </div><br>
