@@ -12,15 +12,11 @@
 🔗 Personnal website : Under development
 
 </div>
-<span>
+
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
- 
-<img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
-</span>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
- </p>
+
+
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...*** 
 <p align="center">
 
@@ -43,6 +39,10 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slvkelevra&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Slvkelevra's Github Stats">
 <br>
+ <br>
+ <p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
+ </p>
  <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
