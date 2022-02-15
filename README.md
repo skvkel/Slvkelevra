@@ -30,12 +30,6 @@
 </p>
 
 
-
-<p align="center>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-</p>
-<p align="center">
-
  <h3 align="center">Languages</h3>
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -74,7 +68,8 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
-                   And more...
+  <br>
+  <p align="center"> And more... </p>
 </p>
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
