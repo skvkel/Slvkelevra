@@ -29,7 +29,7 @@
   <img src="https://user-images.githubusercontent.com/16016494/154133934-40314599-7bd4-457e-9fb6-9799db5c7963.gif" alt="animated" />
 </p>
 <div align="center">
- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> <b>Some Languages and Tools</b>
  </div>
  <h3 align="center">Languages</h3>
  
