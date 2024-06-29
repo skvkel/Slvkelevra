@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Slvkelevra 🙂</h1>
+<h1 align="center">Hi! I'm Slvkel 🙂</h1>
 <h4 align="center">I'm a 31 years old based in Spain. <br> I like to explore new technologies and develop software solutions. <br> I love surfing and programming on the shore of the beach.<br> I enjoy learning and designing solutions to current problems.</h4>
 
 
@@ -77,38 +77,11 @@
       alt="Shell script"/>
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
       alt="JSON"/>
-  
-  
-  
 
   </p>
   <h2 align="center"> And more... <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;</h2>
 
 <div align="center">
+  <h2 align="center">📧 Contact me: alvaro144@correo.ugr.es</h2>
   
-  <h3><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">
-   Here's my github README stats:</h3
-
-![Slvkelevra GitHub stats](https://github-readme-stats.vercel.app/api?username=Slvkelevra&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Slvkelevra&theme=radical)]
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slvkelevra&layout=compact&theme=dark)](https://github.com/Slvkelevra)
-</div><br>
- <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Slvkelevra&color=brightgreen" alt="watching_count" />
- </p>
-<hr>
-  
-  
-<h2 align="center">Contact me:</h2><br>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/%C3%A1lvaro-mar%C3%ADn-p%C3%A9rez-7b39101a7"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/Slvkelevra"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828"></a>
-
-<br><br>
-📧 Mail : alvaromarin144@gmail.com
-
-🔗 Personnal website : Under development
-
 </div>
